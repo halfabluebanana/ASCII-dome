@@ -1,0 +1,42 @@
+# PNG frames and images
+*.png
+*.PNG
+
+# Video files
+*.mp4
+*.mov
+*.MOV
+*.MP4
+
+# Output directories
+ascii_frames/
+p5_frames/
+*.tar
+
+# System files
+.DS_Store
+.Rhistory
+*.swp
+*.swo
+*~
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Test files and directories
+*_test file/
+*test*/
+test_*/
+
+# Downloads (if accidentally added)
+Downloads/
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
